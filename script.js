@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     profileImage.setAttribute('id', 'profile-image');
     profileImage.setAttribute('class', 'floating');
     profileImage.setAttribute('alt', 'Profile Image');
-    profileImage.src = profile.image;
+    profileImage.src = "./Images/1.jpg";
 
     const profileName = document.createElement('ul');
     profileName.setAttribute('id', 'profile-name');
