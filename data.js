@@ -1,6 +1,6 @@
 const portfolioData = {
     "profile": {
-        "image": "Images/1.jpg",
+        "image": "1.jpg",
         "name": "JEEVASVITHRA",
         "role": "DEVELOPER",
         "bio": "Hi, I'm Jeeva Svithra, a proactive final-year student majoring in Artificial Intelligence and Machine Learning, with expertise in front-end development and practical experience from internships and academic projects. A team-oriented individual with excellent communication skills. Demonstrated strong task management and ability to meet deadlines. Looking for opportunities to advance technical skills, contribute to a dynamic tech team, and make a meaningful impact in the industry.",
